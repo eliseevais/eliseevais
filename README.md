@@ -1,10 +1,23 @@
-<h1 align="center">
-  Hi there, I'm Irina Eliseeva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
+<table>
+  <tr>
+    <td>
+
+<h1>
+  Привет, я Ирина Елисеева
 </h1>
 
-<p align="center">
-  <strong>Frontend Developer</strong> | 1+ year of experience building modern SPAs with React & TypeScript
+<p>
+  <strong>Frontend разработчик</strong> с опытом более года в создании современных SPA с React и TypeScript
 </p>
+
+    </td>
+    <td>
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="привет гиф" />
+
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
@@ -12,13 +25,13 @@
 
 ---
 
-### 💡 About Me
+### 💡 О себе
 
-Frontend developer с опытом более года в создании SPA с использованием TypeScript, React, Next.js и Redux. Участвую в командной работе: код-ревью, CI/CD и деплой в Kubernetes. В свободное время решаю задачи на Codewars, чтобы прокачивать навыки JavaScript и TypeScript. Открыта для новых возможностей и сотрудничества.
+Frontend разработчик с опытом более года в создании SPA с использованием TypeScript, React, Next.js и Redux. Участвую в командной работе: код-ревью, CI/CD и деплой в Kubernetes. В свободное время решаю задачи на Codewars, чтобы прокачивать навыки JavaScript и TypeScript. Открыта для новых возможностей и сотрудничества.
 
 ---
 
-### ⚙️ Tech Stack
+### ⚙️ Технологии
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript (ES6+)"/> &nbsp;
@@ -41,15 +54,7 @@ Frontend developer с опытом более года в создании SPA �
 
 ---
 
-### 🧠 Codewars
-
-<p align="center">
-  <img src="https://www.codewars.com/users/eliseevais/badges/large" alt="Codewars Stats" />
-</p>
-
----
-
-### 📬 Let's Connect
+### 📬 Связаться со мной
 
 [![Telegram](https://img.shields.io/badge/-@is_eliseeva-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/is_eliseeva)  
 [![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/users/eliseevais)
