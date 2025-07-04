@@ -1,23 +1,15 @@
-<table>
-  <tr>
-    <td>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div style="flex: 1;">
+    <h1>Привет, я Ирина Елисеева</h1>
+    <p>
+      <strong>Frontend разработчик</strong> с опытом более года в создании современных SPA с React и TypeScript
+    </p>
+  </div>
+  <div>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding gif" />
+  </div>
+</div>
 
-<h1>
-  Привет, я Ирина Елисеева
-</h1>
-
-<p>
-  <strong>Frontend разработчик</strong> с опытом более года в создании современных SPA с React и TypeScript
-</p>
-
-    </td>
-    <td>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding gif" />
-
-    </td>
-  </tr>
-</table>
 ---
 
 ### 💡 О себе
@@ -51,5 +43,5 @@ Frontend разработчик с опытом более года в созд�
 
 ### 📬 Связаться со мной
 
-[![Telegram](https://img.shields.io/badge/-@is_eliseeva-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/is_eliseeva)  
+[![Telegram](https://img.shields.io/badge/-@is_eliseeva-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/is_eliseeva)
 [![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/users/eliseevais)
