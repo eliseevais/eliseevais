@@ -1,12 +1,12 @@
-<div style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
-  <div>
+<div style="display: flex; flex-direction: row; align-items: flex-start; gap: 30px; max-width: 800px; margin: auto;">
+  <div style="flex: 1; min-width: 300px;">
     <h1>Привет! Меня зовут Ирина!</h1>
     <p>
       <strong>Frontend разработчик</strong> с опытом более года в создании современных SPA с React и TypeScript
     </p>
   </div>
-  <div>
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding gif" />
+  <div style="flex-shrink: 0;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding gif" style="border-radius: 10px;" />
   </div>
 </div>
 ---
