@@ -1,39 +1,43 @@
 <h1 align="center">
   Hi there, I'm Irina Eliseeva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 </h1>
+
 <p align="center">
-  <strong>Frontend Developer</strong> with 1+ year of experience in building modern, responsive Single Page Applications (SPAs)
+  <strong>Frontend Developer</strong> | 1+ year of experience building modern SPAs with React & TypeScript
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
 </p>
 
 ---
 
-### 💼 About Me
+### 💡 About Me
 
-- 👩‍💻 Frontend Developer with 1+ year of experience
-- ⚙️ Tech stack: **TypeScript**, **React**, **Next.js**, **Redux**
-- 🤝 Experienced in collaborative team environments: code reviews, CI/CD, Kubernetes deployments
-- 👩‍🔧 Led a project as a **Team Lead**
-- 🧠 In my spare time, I solve coding challenges on **Codewars** to sharpen my JS/TS skills
-- 🚀 Open to **new opportunities** and **collaborations**
+Frontend developer с опытом более года в создании SPA с использованием TypeScript, React, Next.js и Redux. Участвую в командной работе: код-ревью, CI/CD и деплой в Kubernetes. В свободное время решаю задачи на Codewars, чтобы прокачивать навыки JavaScript и TypeScript. Открыта для новых возможностей и сотрудничества.
 
 ---
 
-### 🛠️ Tech Stack
+### ⚙️ Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" alt="Redux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
-</p>
+**Languages & Frameworks:**  
+JavaScript (ES6+) / TypeScript / React / Next.js (SSR) / Redux / Redux Toolkit / React Hook Form / Zod
+
+**Styling & UI:**  
+CSS / MUI / Radix UI
+
+**Networking & API:**  
+Axios / WebSockets (Socket.io)
+
+**Testing & Docs:**  
+Storybook
+
+**Tools & DevOps:**  
+Git / GitHub / CI/CD (Jenkins, Docker, Kubernetes)
 
 ---
 
-### 🧠 Codewars Activity
+### 🧠 Codewars
 
 <p align="center">
   <img src="https://www.codewars.com/users/eliseevais/badges/large" alt="Codewars Stats" />
@@ -41,27 +45,7 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliseevais&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliseevais&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🧩 Fun Fact
-
-> "Writing clean code is like writing poetry — structure, clarity, and flow matter." ✨
-
----
-
-### 📫 Let's Connect
+### 📬 Let's Connect
 
 [![Telegram](https://img.shields.io/badge/-@is_eliseeva-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/is_eliseeva)  
 [![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/users/eliseevais)
-
----
-
-_Thanks for stopping by! ⭐️_
