@@ -1,6 +1,6 @@
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-  <div style="width: 100%; text-align: center;">
-    <h1>Привет, я Ирина Елисеева!</h1>
+<div style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
+  <div>
+    <h1>Привет! Меня зовут Ирина!</h1>
     <p>
       <strong>Frontend разработчик</strong> с опытом более года в создании современных SPA с React и TypeScript
     </p>
