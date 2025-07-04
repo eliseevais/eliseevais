@@ -1,11 +1,11 @@
 <div style="display: flex; align-items: center; gap: 20px;">
-  <div style="flex: 1;">
+  <div style="flex: 0 0 50%;">
     <h1>Привет, я Ирина Елисеева</h1>
     <p>
       <strong>Frontend разработчик</strong> с опытом более года в создании современных SPA с React и TypeScript
     </p>
   </div>
-  <div>
+  <div style="flex: 0 0 50%; text-align: right;">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding gif" />
   </div>
 </div>
