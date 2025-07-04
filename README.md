@@ -21,36 +21,24 @@ Frontend developer с опытом более года в создании SPA �
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript (ES6+)"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" title="Next.js (SSR)"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" alt="Redux" title="Redux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" alt="Redux Toolkit" title="Redux Toolkit"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React Hook Form" title="React Hook Form"/>
-  <img src="https://raw.githubusercontent.com/colinhacks/zod/main/logo/logo.svg" width="40" alt="Zod" title="Zod"/>
-
-  <br/><br/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" title="CSS"/>
-  <img src="https://mui.com/static/logo.png" width="40" alt="MUI" title="MUI"/>
-  <img src="https://avatars.githubusercontent.com/u/62375390?s=200&v=4" width="40" alt="Radix UI" title="Radix UI"/>
-
-  <br/><br/>
-
-  <img src="https://cdn.worldvectorlogo.com/logos/axios-1.svg" width="40" alt="Axios" title="Axios"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="40" alt="Socket.io" title="WebSockets (Socket.io)"/>
-
-  <br/><br/>
-
-  <img src="https://storybook.js.org/images/logos/icon-storybook.svg" width="40" alt="Storybook" title="Storybook"/>
-
-  <br/><br/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" title="GitHub"/>
-  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" width="40" alt="Jenkins" title="Jenkins"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript (ES6+)"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" title="TypeScript"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" title="React"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" title="Next.js (SSR)"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" alt="Redux" title="Redux"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" alt="Redux Toolkit" title="Redux Toolkit"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React Hook Form" title="React Hook Form"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/colinhacks/zod/main/logo/logo.svg" width="40" alt="Zod" title="Zod"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" title="CSS"/> &nbsp;
+  <img src="https://mui.com/static/logo.png" width="40" alt="MUI" title="MUI"/> &nbsp;
+  <img src="https://avatars.githubusercontent.com/u/62375390?s=200&v=4" width="40" alt="Radix UI" title="Radix UI"/> &nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/axios-1.svg" width="40" alt="Axios" title="Axios"/> &nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="40" alt="Socket.io" title="WebSockets (Socket.io)"/> &nbsp;
+  <img src="https://storybook.js.org/images/logos/icon-storybook.svg" width="40" alt="Storybook" title="Storybook"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" title="GitHub"/> &nbsp;
+  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" width="40" alt="Jenkins" title="Jenkins"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" title="Docker"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes" title="Kubernetes"/>
 </p>
 
