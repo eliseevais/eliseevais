@@ -1,14 +1,15 @@
-<div style="display: flex; flex-direction: row; align-items: flex-start; gap: 30px; max-width: 800px; margin: auto;">
-  <div style="flex: 1; min-width: 300px;">
-    <h1>Привет! Меня зовут Ирина!</h1>
-    <p>
-      <strong>Frontend разработчик</strong> с опытом более года в создании современных SPA с React и TypeScript
+<div style="display: flex; align-items: center; justify-content: center; gap: 40px; max-width: 800px; margin: auto; flex-wrap: wrap;">
+  <div style="flex: 1 1 300px; min-width: 280px;">
+    <h1 style="margin-bottom: 8px;">Привет! Меня зовут <span style="color: #3b82f6;">Ирина</span>!</h1>
+    <p style="font-size: 1.1em; line-height: 1.4; color: #444;">
+      <strong>Frontend разработчик</strong> с опытом более года в создании современных SPA с React и TypeScript.
     </p>
   </div>
-  <div style="flex-shrink: 0;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding gif" style="border-radius: 10px;" />
+  <div style="flex-shrink: 0; border-radius: 16px; overflow: hidden; box-shadow: 0 8px 16px rgba(0,0,0,0.15);">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="240" style="display: block;" />
   </div>
 </div>
+
 ---
 
 ### 💡 О себе
@@ -19,7 +20,8 @@ Frontend разработчик с опытом более года в созд�
 
 ### ⚙️ Технологии
 
-<p align="center">
+<p align="center" style="margin-top: 20px;">
+  <!-- иконки как у тебя -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript (ES6+)"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" title="TypeScript"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" title="React"/> &nbsp;
@@ -42,5 +44,11 @@ Frontend разработчик с опытом более года в созд�
 
 ### 📬 Связаться со мной
 
-[![Telegram](https://img.shields.io/badge/-@is_eliseeva-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/is_eliseeva)
-[![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/users/eliseevais)
+<div style="display: flex; gap: 12px; justify-content: center; margin-top: 10px;">
+  <a href="https://t.me/is_eliseeva" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-@is_eliseeva-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.codewars.com/users/eliseevais" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white" alt="Codewars" />
+  </a>
+</div>
