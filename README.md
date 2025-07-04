@@ -1,4 +1,11 @@
-<div style="display: flex; align-items: center; justify-content: center; gap: 40px; max-width: 800px; margin: auto; flex-wrap: wrap;">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 40px; max-width: 800px; margin: auto; flex-wrap: wrap;">
+  <div style="flex: 1 1 300px; min-width: 280px;">
+    <h1 style="margin-bottom: 8px;">Привет! Меня зовут <span style="color: #3b82f6;">Ирина</span>!</h1>
+  </div>
+  <div style="flex-shrink: 0; border-radius: 16px; overflow: hidden; box-shadow: 0 8px 16px rgba(0,0,0,0.15);">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3A3Z2VqbDRzMXM3OG8zdm5wbGU3a29mNWd6a24xcGNueWN4bDR4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="coding gif" width="240" style="display: block;" />
+  </div>
+</div>
   <div style="flex: 1 1 300px; min-width: 280px;">
     <h1 style="margin-bottom: 8px;">Привет! Меня зовут <span style="color: #3b82f6;">Ирина</span>!</h1>
   </div>
